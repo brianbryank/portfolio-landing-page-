@@ -31,4 +31,4 @@ software methods and tools refer herehttp://www.methodsandtools.com/archive/arch
 
 
 ### live site 
-view [live]( https://brianbryaks.github.io/portfolio-landing-page/)
+view [live]( https://brianbryank.github.io/portfolio-landing-page-/)
